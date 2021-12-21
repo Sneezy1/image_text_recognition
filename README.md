@@ -1,4 +1,4 @@
-Emotion Detection installation guide
+Image text recognition installation guide
 
 ## Environment and tools
 1. python
