@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 from flask import Flask, request, render_template
 from model import make_recognition
 
